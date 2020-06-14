@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SweetBite</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="menu_settings">Cerrar Sesion</string>
+
+        <string-array name="sabores">
+    <item>Chocolate</item>
+    <item>Fresa</item>
+    <item>Vainilla</item>
+    <item>Zanahoria</item>
+    <item>3 leches</item>
+            <item>Red velvet</item>
+</string-array>
+    <string-array name="betun">
+        <item>Chocolate</item>
+        <item>Fresa</item>
+        <item>Vainilla</item>
+        <item>Queso crema</item>
+        <item>Crema</item>
+    </string-array>
+    <string-array name="tamano">
+        <item>Chico</item>
+        <item>Mediano</item>
+        <item>grande</item>
+    </string-array>
+
+</resources>
